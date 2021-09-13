@@ -1,4 +1,5 @@
 * Painting-Voila
 
 ** Demo artists classifier with fastai and Voila
-
+   * Visit the link below to see a working application
+   * https://mybinder.org/v2/gh/jaewoochung/painting-classifier/HEAD?urlpath=%2Fvoila%2Frender%2Fpainting-classifier.ipynb
